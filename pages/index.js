@@ -32,8 +32,9 @@ export default function Home({ allPostsData }) {
           never be pay-to-win.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://www.youtube.com/watch?v=YQ0jeuCoG3U">
+            Check out my gaming channel here!
+          </a>
         </p>
       </section>
       <section>
