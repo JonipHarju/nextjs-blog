@@ -1,5 +1,5 @@
 ---
-title: "Gaming stroies!"
+title: "Forspoken wtf!?!??!?!!"
 date: "2020-01-15"
 ---
 
